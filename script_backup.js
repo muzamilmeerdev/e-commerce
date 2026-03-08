@@ -1,4 +1,4 @@
-// Shopping App JavaScript
+ // Shopping App JavaScript
 
 // App State
 let cart = [];
@@ -51,8 +51,8 @@ const sampleProducts = [
         id: 4,
         title: "Wedding Suit 3-Piece",
         description: "Premium wedding suit with blazer, trouser & waistcoat",
-        price: 8999,
-        originalPrice: 12999,
+        price: 4999,
+        originalPrice: 5999,
         category: "fashion",
         rating: 4.9,
         reviews: 234,
