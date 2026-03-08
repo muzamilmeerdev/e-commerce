@@ -15,7 +15,7 @@ const sampleProducts = [
         id: 1,
         title: "Cotton T-Shirt",
         description: "Premium quality cotton t-shirt for daily wear - TESTING OFFER!",
-        price: free,
+        price: 577,
         originalPrice: 599,
         category: "fashion",
         rating: 4.5,
